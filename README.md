@@ -1,4 +1,5 @@
 # Transport Management
-Projects uses Thinkelt and sqlite in Python.
+A GUI made using Thinkelt and sqlite in Python.
+
 
 
